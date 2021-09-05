@@ -1,4 +1,4 @@
-# Blog type website
+# Blog type website used django framework
 
 > ## Implmented
 >
